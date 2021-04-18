@@ -1,4 +1,4 @@
-### Hi there 👋
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=standimitroff&logos=true&branding=false&style=--item-bg-color:%23ffff;--item-border-radius:10px"/>
 
 <!--
 **StanDimitroff/standimitroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
